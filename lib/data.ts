@@ -78,13 +78,12 @@ export const projectsData = [
   {
     title: "CI&T OKRs",
     description:
-      "Trabalhei aqui como desenvolvedor fullstack referência em conjunto a outros desenvolvedores e estagiários. Fiquei encarregado de instruí-los no uso do VueJS.",
+      "Atuei como desenvolvedor fullstack referência a outros desenvolvedores e estagiários. Fiquei encarregado de instruí-los no uso do VueJS.",
     tags: [
       "Vue",
       "TypeScript",
       "NodeJS",
       "Tailwind",
-      "Strapi",
       "Cypress.io",
       "Jest",
     ],
