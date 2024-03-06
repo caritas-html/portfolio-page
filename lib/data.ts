@@ -105,7 +105,7 @@ export const skillsData = [
   "MySQL",
   "VueJS",
   "GraphQL",
-  "Apollo",
+  "Docker",
   "Express",
   "PostgreSQL",
   "Python",
