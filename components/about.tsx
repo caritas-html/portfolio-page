@@ -21,49 +21,24 @@ export default function About() {
     >
       <SectionHeading>Sobre mim</SectionHeading>
       <p className="mb-3">
-        Como desenvolvedor,{" "}
-        <span className="font-medium">
-          concentrei, meus esforços no aprimoramento de habilidades em
-          JavaScript
-        </span>{" "}
-        <span className="font-medium">
-          {" "}
-          e estou atualmente ampliando meus conhecimentos em Java.{" "}
-        </span>
-        <span className="font-medium">
-          Sou apaixonado por programação, lógica e resolução de
-          problemas.{" "}
-        </span>
-        <span className="font-medium">
-          Estou sempre em busca de aprimorar meu conhecimento para
-          atingir melhores resultados.
-        </span>
-        .{" "}
-        <span className="italic">
-          Minha parte favorita na programação
-        </span>{" "}
-        é a resolução de problemas. E,{" "}
-        <span className="font-medium"> visto isso, </span>foquei em
-        certas tecnologias como:{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, Vue, Typescript e Nest.js
-        </span>
-        . Também tenho familiaridade com algumas linguagens como: Java
-        e C#. Atualmente estou à procura de um emprego{" "}
-        <span className="font-medium">full-time</span> como
-        desenvolvedor de software full-stack.
+        Como desenvolvedor, concentro meus esforços no aprimoramento
+        de habilidades em JavaScript e, atualmente, estou ampliando
+        meus conhecimentos em Java. Tenho paixão pela programação,
+        lógica e resolução de problemas, sempre buscando aprimorar meu
+        conhecimento para atingir melhores resultados. Minha parte
+        favorita na programação é a resolução de problemas, e,
+        portanto, tenho focado em aprimorar meu domínio em tecnologias
+        como React, Next.js, Node.js, Vue, Typescript e Nest.js. Além
+        disso, possuo familiaridade com linguagens como Java e C#.
+        Estou atualmente em busca de oportunidades de emprego
+        full-time como desenvolvedor de software full-stack.
       </p>
 
       <p>
-        Quando não estou fazendo códigos
-        <span className="font-medium">
-          , estou jogando xadrez, rpg, brincando com minhas gatas ou
-          andando de bicicleta.{" "}
-        </span>{" "}
-        Eu também gosto muito de{" "}
-        <span className="font-medium">aprender coisas novas</span>.
-        Atualmente estou focando meus estudos na{" "}
-        <span className="font-medium">língua francesa</span>.
+        Fora do ambiente de codificação, dedico meu tempo ao xadrez,
+        RPG, brincando com minhas gatas e andando de bicicleta. Tenho
+        grande interesse em aprender coisas novas e, atualmente, estou
+        focado em meus estudos da língua francesa.
       </p>
     </motion.section>
   );
